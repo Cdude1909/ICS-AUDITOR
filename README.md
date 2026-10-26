@@ -3,7 +3,7 @@
 <img width="263" height="263" alt="Screenshot 2026-05-01 121325" src="https://github.com/user-attachments/assets/f67206e6-bbb9-49b5-b923-cb09f6589231" />
 
 ### 🛡️ ICS Auditor `(Beta)` | Next-Generation Industrial Control Systems (ICS/SCADA) & Operational Technology (OT) Cybersecurity Assessment and Compliance Platform
-
+#### ***CISA's CSET inspired (https://github.com/cisagov/cset/releases)***
 [![Version](https://img.shields.io/badge/Version-1.0--beta-amber.svg?style=for-the-badge&logo=git)](https://github.com/)
 [![Tauri](https://img.shields.io/badge/Tauri-v2.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
 [![License](https://img.shields.io/badge/License-MIT-emerald.svg?style=for-the-badge)](LICENSE)
@@ -322,14 +322,3 @@ ics-auditor-1.0/
         ├── geminiService.ts        # Google Gemini Vision & LLM report synthesis
         └── pdfGenerator.ts         # High-resolution PDF document export engine
 ```
----
-
-##  License
-
-This project is licensed under the **MIT License**, see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <sub>Engineered for Industrial Control Systems, Critical Infrastructure, and Cyber-Physical Safety.</sub>
-</div>
