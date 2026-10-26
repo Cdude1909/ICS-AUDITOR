@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ ICS Auditor `(Beta)`
+<img width="263" height="263" alt="Screenshot 2026-05-01 121325" src="https://github.com/user-attachments/assets/f67206e6-bbb9-49b5-b923-cb09f6589231" />
 
-### Next-Generation Industrial Control Systems (ICS/SCADA) & Operational Technology (OT) Cybersecurity Assessment and Compliance Platform
+### 🛡️ ICS Auditor `(Beta)` | Next-Generation Industrial Control Systems (ICS/SCADA) & Operational Technology (OT) Cybersecurity Assessment and Compliance Platform
 
 [![Version](https://img.shields.io/badge/Version-1.0--beta-amber.svg?style=for-the-badge&logo=git)](https://github.com/)
 [![Tauri](https://img.shields.io/badge/Tauri-v2.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
