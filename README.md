@@ -95,7 +95,8 @@ Conducting cybersecurity assessments in OT environments has traditionally been h
 
 ---
 
-### Figure 3: Live Runtime Screenshot and working
+### Figure 3: Live Runtime Screenshots and working
+
 <img width="1263" height="777" alt="image_10" src="https://github.com/user-attachments/assets/1fd824ed-94d4-4e2e-a1ae-6ada5a5d0c10" />
 <img width="825" height="622" alt="Screenshot 2026-04-15 161306" src="https://github.com/user-attachments/assets/b10e0354-7182-4647-a965-375043c78ca2" />
 <img width="3000" height="3000" alt="MixCollage-15-Apr-2026-04-22-PM-7282" src="https://github.com/user-attachments/assets/76e17fd3-66e4-4624-a977-9aeaf037cb2e" />
