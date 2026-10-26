@@ -322,16 +322,6 @@ ics-auditor-1.0/
         ├── geminiService.ts        # Google Gemini Vision & LLM report synthesis
         └── pdfGenerator.ts         # High-resolution PDF document export engine
 ```
-
----
-
-##  Security & Air-Gap Compliance
-
-- **No Secret Leakage**: API keys and credentials are not hardcoded. Encryption is performed in-memory using client-side WebCrypto and CryptoJS.
-- **Strict Content Security**: When running as a Tauri desktop app, external network calls can be completely disabled or locked down to trusted corporate endpoints.
-- **Zero Involuntary Telemetry**: No tracking beacons, analytics cookies, or behavioral telemetry are embedded in the application.
-
-
 ---
 
 ##  License
